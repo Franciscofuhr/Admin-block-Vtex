@@ -1,0 +1,6 @@
+query allCookies{
+    allCookies{
+        id 
+        text
+    }
+}

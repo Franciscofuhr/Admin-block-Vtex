@@ -1,0 +1,6 @@
+query randomCookie{
+    randomCookie{
+        id 
+        text
+    }
+}

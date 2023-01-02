@@ -1,4 +1,8 @@
 {
-  "admin/test": "teste",
-  "store/test": "teste"
+  "admin-example.navigation.label": "biscoitos da sorte",
+  "admin-example.editor.add": "Adicionar",
+  "admin-example.editor.edit": "editar",
+  "admin-example.editor.searchLabel": "Nenhum resultado para a sua pesquisa",
+  "admin-example.editor.errorFetch": "erro ao buscar as informações",
+  "admin-example.navigation.search.kws": "biscoitos, sorte"
 }

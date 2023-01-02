@@ -1,4 +1,8 @@
 {
-  "admin/test": "test",
-  "store/test": "test"
+  "admin-example.navigation.label": "Fortune cookies",
+  "admin-example.editor.add": "Add",
+  "admin-example.editor.edit": "edit",
+  "admin-example.editor.searchLabel": "No results for your search",
+  "admin-example.editor.errorFetch": "Error when fetching the information",
+  "admin-example.navigation.search.kws": "Fortune, cookies"
 }

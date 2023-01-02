@@ -1,0 +1,5 @@
+mutation editCookie($idCookie:String,$frase:String){
+    editCookie(code:$idCookie,text:$frase){
+        nothing
+    }
+}

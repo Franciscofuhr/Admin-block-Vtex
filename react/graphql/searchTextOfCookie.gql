@@ -1,0 +1,6 @@
+query searchTextOfCookie($frase:String){
+    searchTextOfCookie(text:$frase){
+        id 
+        text
+    }
+}

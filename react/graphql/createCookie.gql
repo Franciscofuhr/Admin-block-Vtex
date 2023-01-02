@@ -1,0 +1,7 @@
+mutation createCookie($frase:String){
+    createCookie(text:$frase){
+        Id
+        Href
+        DocumentId
+    }
+}

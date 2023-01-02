@@ -1,4 +1,9 @@
 {
-  "admin/test": "teste",
-  "store/test": "teste"
+  "admin-example.navigation.label": "Galletas de la fortuna",
+  "admin-example.navigation.single": "Galleta de la fortuna",
+  "admin-example.editor.add": "Agregar",
+  "admin-example.editor.edit": "editar",
+  "admin-example.editor.searchLabel": "No se encontraron resultados para su búsqueda",
+  "admin-example.editor.errorFetch": "Error al traer la información",
+  "admin-example.navigation.search.kws": "Galletas, fortuna"
 }
